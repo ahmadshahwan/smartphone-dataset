@@ -10,4 +10,4 @@ The dataset contains both training and test data (that is all recorded experimen
 
 Features' column names are kept as found in the file "UCI HAR Dataset/features.txt".
 
-To regenerate the data set, please run the script run_analysis.R, after unziping the file available [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) in the same directory as the script.
+To regenerate the data set, please run the script run_analysis.R, after unziping the file available [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) in your working directory.
