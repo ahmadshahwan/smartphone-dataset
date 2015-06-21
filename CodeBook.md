@@ -8,6 +8,6 @@ The variables are as follow:
 
 The dataset contains both training and test data (that is all recorded experiments). Feature values were averaged over all observations for each activity and each subject.
 
-Features' column names are kept as found in the file "UCI HAR Dataset/features.txt".
+Features' column names are kept as found in the file "UCI HAR Dataset/features.txt", with parentheses turned into dots.
 
 To regenerate the data set, please run the script run_analysis.R, after unziping the file available [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) in your working directory.
